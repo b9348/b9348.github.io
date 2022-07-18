@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'linecons';
+  src: url('https://cdn.jsdelivr.net/gh/b9348/b9348/3/fontlinecons.eot?24293614');
+  src: url('https://cdn.jsdelivr.net/gh/b9348/b9348/3/fontlinecons.eot?24293614#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/b9348/b9348/3/fontlinecons.woff?24293614') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/b9348/b9348/3/fontlinecons.ttf?24293614') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/b9348/b9348/3/fontlinecons.svg?24293614#linecons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'linecons';
+    src: url('../font/linecons.svg?24293614#linecons') format('svg');
+  }
+}
+*/
+ 
+ [class^="linecons-"]:before, [class*=" linecons-"]:before {
+  font-family: "linecons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.linecons-music:before { content: '\e800'; } /* '' */
+.linecons-search:before { content: '\e801'; } /* '' */
+.linecons-mail:before { content: '\e802'; } /* '' */
+.linecons-heart:before { content: '\e803'; } /* '' */
+.linecons-star:before { content: '\e804'; } /* '' */
+.linecons-user:before { content: '\e805'; } /* '' */
+.linecons-videocam:before { content: '\e806'; } /* '' */
+.linecons-camera:before { content: '\e807'; } /* '' */
+.linecons-photo:before { content: '\e808'; } /* '' */
+.linecons-attach:before { content: '\e809'; } /* '' */
+.linecons-lock:before { content: '\e80a'; } /* '' */
+.linecons-eye:before { content: '\e80b'; } /* '' */
+.linecons-tag:before { content: '\e80c'; } /* '' */
+.linecons-thumbs-up:before { content: '\e80d'; } /* '' */
+.linecons-pencil:before { content: '\e80e'; } /* '' */
+.linecons-comment:before { content: '\e80f'; } /* '' */
+.linecons-location:before { content: '\e810'; } /* '' */
+.linecons-cup:before { content: '\e811'; } /* '' */
+.linecons-trash:before { content: '\e812'; } /* '' */
+.linecons-doc:before { content: '\e813'; } /* '' */
+.linecons-note:before { content: '\e814'; } /* '' */
+.linecons-cog:before { content: '\e815'; } /* '' */
+.linecons-params:before { content: '\e816'; } /* '' */
+.linecons-calendar:before { content: '\e817'; } /* '' */
+.linecons-sound:before { content: '\e818'; } /* '' */
+.linecons-clock:before { content: '\e819'; } /* '' */
+.linecons-lightbulb:before { content: '\e81a'; } /* '' */
+.linecons-tv:before { content: '\e81b'; } /* '' */
+.linecons-desktop:before { content: '\e81c'; } /* '' */
+.linecons-mobile:before { content: '\e81d'; } /* '' */
+.linecons-cd:before { content: '\e81e'; } /* '' */
+.linecons-inbox:before { content: '\e81f'; } /* '' */
+.linecons-globe:before { content: '\e820'; } /* '' */
+.linecons-cloud:before { content: '\e821'; } /* '' */
+.linecons-paper-plane:before { content: '\e822'; } /* '' */
+.linecons-fire:before { content: '\e823'; } /* '' */
+.linecons-graduation-cap:before { content: '\e824'; } /* '' */
+.linecons-megaphone:before { content: '\e825'; } /* '' */
+.linecons-database:before { content: '\e826'; } /* '' */
+.linecons-key:before { content: '\e827'; } /* '' */
+.linecons-beaker:before { content: '\e828'; } /* '' */
+.linecons-truck:before { content: '\e829'; } /* '' */
+.linecons-money:before { content: '\e82a'; } /* '' */
+.linecons-food:before { content: '\e82b'; } /* '' */
+.linecons-shop:before { content: '\e82c'; } /* '' */
+.linecons-diamond:before { content: '\e82d'; } /* '' */
+.linecons-t-shirt:before { content: '\e82e'; } /* '' */
+.linecons-wallet:before { content: '\e82f'; } /* '' */
