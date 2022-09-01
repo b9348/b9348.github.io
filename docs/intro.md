@@ -12,9 +12,6 @@ slug: /
 title: 《GTA4完整版》汉化导航
 ---
 
-import Highlight from "../src/components/highlight"
-import ToolTip from "../src/components/tooltip"
-
 
 > 🚀**本文档持续更新中...**
 
