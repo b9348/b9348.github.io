@@ -27,7 +27,7 @@ import ToolTip from "../src/components/tooltip"
 >今天，**本体、TLAD、TBoGT 三个部分以及游戏中的网页文本全部汉化完成**，程序几经优化，译文再三润饰，新的汉化补丁终于和大家见面了。
 
 ## 下载
-- [立即下载](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoei1QdWxTU0lkYm9oR3NqP2U9SHVlY3dv.zip) [最后更新：2022.06.14]
+- [立即下载](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoei1QdWxTU0lkYm9oR3NqP2U9SHVlY3dv.zip) {最后更新：2022.06.14}　　  [汉化安装教程](./安装汉化/0：安装前准备.md)
 
 - [[备用下载]&&[赠品目录]：百度云](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
 
@@ -36,6 +36,7 @@ import ToolTip from "../src/components/tooltip"
 - [汉化问题反馈收集表 - 腾讯文档](https://docs.qq.com/form/page/DQXdCd1BwT1VrbXV5)
 
 - [汉化文本&&程序源码](https://github.com/GTAIV-Complete-Edition-text)，本汉化MOD为开源项目。欢迎向我们提[lssues](https://github.com/GTAIV-Complete-Edition-text/feedback-IV.CHS/issues)以改进
+
 
 
 Have fun!
