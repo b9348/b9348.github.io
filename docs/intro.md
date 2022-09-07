@@ -24,7 +24,7 @@ title: 《GTA4完整版》汉化导航
 >今天，**本体、TLAD、TBoGT 三个部分以及游戏中的网页文本全部汉化完成**，程序几经优化，译文再三润饰，新的汉化补丁终于和大家见面了。
 
 ## 下载
-- [立即下载](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoei1QdWxTU0lkYm9oR3NqP2U9SHVlY3dv.zip) {最后更新：2022.06.14}　　  [汉化安装教程](./安装汉化/0：安装前准备.md)
+- [立即下载](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoei1QdWxTU0lkYm9oR3NqP2U9SHVlY3dv.zip) {最后更新：2022.06.14}　　  [[ 汉化安装教程 ]](./安装汉化/0：安装前准备.md#0：安装前准备)
 
 - [[备用下载]&&[赠品目录]：百度云](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
 
@@ -41,6 +41,13 @@ Have fun!
 ## ✨ Tips
 
 由于图片不支持 **点击查看大图**，建议在新标签页中 **📸 查看大图** 。
+
+
+[友情链接：百度贴吧—GTA4吧（欢迎发帖讨论游戏与汉化）](https://jump2.bdimg.com/f?kw=gta4)
+
+感谢[百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=gta4%E6%B1%89%E5%8C%96%E5%AF%BC%E8%88%AA)收录本站，可通过百度搜索关键词找到本站： [GTA4汉化导航](https://www.baidu.com/s?ie=UTF-8&wd=gta4%E6%B1%89%E5%8C%96%E5%AF%BC%E8%88%AA) 
+
+感谢[Gitee码云](https://gitee.com/)提供了免费的网站服务
 ## 📱 汉化客服群：
 
 ```
@@ -48,4 +55,7 @@ Have fun!
 ```
 ## 🐞 已知问题
 
-- 某任务出现漏译
+- 部分任务台词出现漏译
+- R星平台购买的GTA4偶现汉化补丁失效问题。需要反复重启电脑/重装汉化解决。(预计在中秋或国庆更新汉化主程序以修复此问题)
+- [游戏本身的一些疑难杂症见此](./GTA4游戏相关问题（无关汉化补丁）/2%EF%BC%9A%E5%8E%9F%E7%89%88%E6%B8%B8%E6%88%8F%E5%B8%B8%E8%A7%81BUG.md)
+- [游戏本身的BUG见此](./GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/2%EF%BC%9A%E5%8E%9F%E7%89%88%E6%B8%B8%E6%88%8F%E5%B8%B8%E8%A7%81BUG.md)
