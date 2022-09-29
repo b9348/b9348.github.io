@@ -71,5 +71,3 @@ tags: [杂项]
 - 启动游戏后卡在法律声明界面  
   解决方案：安装 [Fusion Fix](https://wwi.lanzoup.com/b07xe74sj)，启用无边框窗口化。
 
-
-![alt](./QQ%E6%88%AA%E5%9B%BE20220929214158.png)
