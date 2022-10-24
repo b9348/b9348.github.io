@@ -9,7 +9,7 @@ keywords: [
     'GTA4中文导航站'
     ]
 slug: /
-title: 《GTA4完整版》汉化导航
+title: '《GTA4完整版》汉化导航'
 ---
 
 > 🚀**本文档持续更新中...**
