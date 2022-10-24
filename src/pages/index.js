@@ -58,27 +58,27 @@ function MyHero() {
     <div className={styles.myHeroContainer}>
       <div className={styles.leftContainer}>
         <h1 className={styles.leftContainer_h1}>
-          Always <br /> Ready to Code.
+          GTA4  <br /> 汉化导航
         </h1>
-        <p className={styles.leftContainer_p}>
+        {/* <p className={styles.leftContainer_p}>
           我是陈晨,热爱计算机的一切,
           <br />
           我在这里记录知识，希望同样能够帮助到你。
-        </p>
+        </p> */}
         <div className={styles.buttonContainer}>
           <button className={styles.button}>
-            <a className={styles.hero_a} href='/'>
-              Click
+            <a className={styles.hero_a} href='/intro'>
+              开始
             </a>
           </button>
           <span className={styles.buttonLeftText}>
             Get Started. <br /> 开启学习之旅.
           </span>
-          <div className={styles.svgContainer}>
+          {/* <div className={styles.svgContainer}>
             {svgList.map((item, index) => {
               return <Svg {...item} key={item.title} />
             })}
-          </div>
+          </div> */}
         </div>
       </div>
       <div className={styles.rightContainer}>

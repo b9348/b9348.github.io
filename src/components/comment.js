@@ -1,9 +1,13 @@
-import React from 'react';
-import Giscus from '@giscus/react';
+import React from "react";
+import BrowserOnly from "@docusaurus/BrowserOnly";
+import Giscus from "@giscus/react";
+import { useThemeConfig, ThemeConfig } from "@docusaurus/theme-common";
 
 export default function comment() {
+  const { giscus } = useThemeConfig();
   return (
-    <Giscus
+    <BrowserOnly fallback={<div>Loading Comments...</div>}>
+      {() => <span>{<Giscus
         id="comments"
         repo="b9348/gta4replies"
         repoId="R_kgDOISz7Ag"
@@ -19,6 +23,9 @@ export default function comment() {
         lang="zh-CN"
         loading="lazy"
         crossorigin="anonymous"
-    />
+        {...giscus}
+    />}</span>}
+      
+    </BrowserOnly>
   );
 }
