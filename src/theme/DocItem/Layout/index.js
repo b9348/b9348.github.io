@@ -51,6 +51,7 @@ export default function DocItemLayout({children}) {
       </div>
       {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}
       <div className={styles.last}>
+        <br />
         <div className={styles.box}>
           <Comment />
         </div>
