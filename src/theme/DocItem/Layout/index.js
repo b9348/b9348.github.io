@@ -35,7 +35,7 @@ function useDocTOC() {
 export default function DocItemLayout({children}) {
   const docTOC = useDocTOC();
   const { frontMatter } = useDoc();
-  const { hideComment } = frontMatter;
+  const { hide_comment: hideComment } = frontMatter;
   return (
     <div className="row">
       <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
