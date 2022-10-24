@@ -38,6 +38,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://gitee.com/b9348/b9348/tree/reactpress/',
+          // docLayoutComponent: './src/theme/DocItem/Layout/index.js'
         },
         blog: {
           showReadingTime: false,
