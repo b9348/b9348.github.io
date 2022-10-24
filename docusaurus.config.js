@@ -8,6 +8,9 @@ const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'gta4汉化导航站',
+  scripts: [
+    {src: 'https://hm.baidu.com/hm.js?de86b38bbc3dec5ed31c4da285286374',  async: true}
+  ],
   tagline: 'gta4汉化导航网站,欢迎访问~',
   url: 'https://b9348.gitee.io',
   baseUrl: '/',
@@ -125,6 +128,18 @@ const config = {
           name: 'GTA4汉化导航站,提供一些关于《GTA4完整版》新汉化补丁的相关信息,本站致力于让每个用户在阅读完后都学会使用GTA4新汉化',
           content: 'Wiki Database,GTA4,gta4,gta4完整版,gta4新汉化,汉化导航,汉化导航站,gta4汉化导航站,gta4汉化导航,gta4完整版汉化,正版gta4汉化,gta4最新版汉化,gta4中文补丁,gta4中文导航,gta4最新中文,gta4中文导航站',
         },
+        {
+          name: 'google-site-verification',
+          content: 'SqAJCwVJ1y-5Bb5O7CHpzjDqFFkhGTWScq-QZ0keg_U'
+        },
+        {
+          name: 'msvalidate.01',
+          content: 'E95E84F34FA795B9B766086AFA806E13'
+        },
+        {
+          name: 'baidu-site-verification',
+          content: 'code-9jjhtke8LU'
+        }
       ],
     }),
 }
