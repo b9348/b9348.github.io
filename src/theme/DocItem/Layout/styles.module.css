@@ -6,12 +6,13 @@
 @media (min-width: 997px) {
   .docItemCol {
     max-width: 75% !important;
+    display: block !important;
   }
 }
 
-.last{
-  width: 100%;
-}
 .box{
-  margin: 0 0.5rem;
+  display: block !important;
+}
+.tess{
+  display: block !important;
 }

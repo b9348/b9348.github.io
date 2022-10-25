@@ -37,27 +37,26 @@ export default function DocItemLayout({children}) {
   const { frontMatter } = useDoc();
   const { hide_comment: hideComment } = frontMatter;
   return (
-    <div className="row">
-      <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
-        <DocVersionBanner />
-        <div className={styles.docItemContainer}>
-          <article>
-            <DocBreadcrumbs />
-            <DocVersionBadge />
-            {docTOC.mobile}
-            <DocItemContent>{children}</DocItemContent>
-            <DocItemFooter />
-          </article>
-          <DocItemPaginator />
-        </div>
-      </div>
-      {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}
-      <div className={styles.last}>
-        <br />
-        <div className={styles.box}>          
-        {!hideComment && <Comment />}
-        </div>
+    <>
+  <div className="row">
+    <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
+      <DocVersionBanner />
+      <div className={styles.docItemContainer}>
+        <article>
+          <DocBreadcrumbs />
+          <DocVersionBadge />
+          {docTOC.mobile}
+          <DocItemContent>{children}</DocItemContent>
+          <DocItemFooter />
+        </article>
+        <DocItemPaginator />
       </div>
     </div>
+    {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}
+  </div><br />
+  <div className={styles.last}>
+    {!hideComment && <Comment  className={styles.tess}/>}
+  </div>
+</>
   );
 }

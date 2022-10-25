@@ -13,7 +13,7 @@ export default function comment() {
         repoId="R_kgDOISz7Ag"
         category="Announcements"
         categoryId="DIC_kwDOISz7As4CSKLm"
-        mapping="title"
+        mapping="url"
         term="欢迎留言捏。"
         strict="0"
         reactionsEnabled="1"
