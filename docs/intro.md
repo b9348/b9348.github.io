@@ -52,7 +52,7 @@ Have fun!
 ```
 154428332
 ```
-![Image](https://tva1.sinaimg.cn/large/7ef912f9ly8h7gj1m4z1dj216x0k941m.jpg)
+![Image](intro.jpg)
 ## 🐞 已知问题
 
 > 9月29日（0929）汉化：
