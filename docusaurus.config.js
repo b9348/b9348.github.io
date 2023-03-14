@@ -99,13 +99,14 @@ const config = {
               },
               {
                 label: 'QQ Group',
-                href: 'https://www.baidu.com',
+                href: 'https://qm.qq.com/cgi-bin/qm/qr?k=OcRKZEtiiSu6CDnqiEyB4Iwa3Dug7O3X&jump_from=webapi&authKey=+jnmyudSctolm1L0xDb3oqBBeOEylH1v4K+casB/6XeOiBIln9FxbWQqLh1DUPi9',
               },
             ],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} _____ 汉化组`,
       },
+      
       prism: {
         theme: lightCodeTheme,
         darkTheme: oceanicNext,
