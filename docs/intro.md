@@ -25,21 +25,25 @@ title: '《GTA4完整版》汉化导航'
 ## 下载
 
 :::danger 下载前必读，不读就别下载了！！！：
-- **0929新版汉化补丁依赖DXVK工具，未安装DXVK会导致调整画质后游戏闪退。**
+- 0929新版汉化补丁依赖DXVK工具，未安装DXVK会导致**调整画质后游戏闪退**。
 
-- **安装DXVK会同时导致游戏无法正常识别显存（使用-availablevidmem  2000可以解决此问题，见此[👉常见错误文档](https://docs.qq.com/doc/p/96d6b9b4160c54c355ad4e8eaf8326f8dda0f641)）**
+- **安装DXVK会同时导致游戏无法正常识别显存**（使用-availablevidmem  2000可以解决此问题，见此[👉常见错误文档](https://docs.qq.com/doc/p/96d6b9b4160c54c355ad4e8eaf8326f8dda0f641)）
 
 - **新版文本较0614旧版，经过二次修复校润，且支持RGL正版。能接受请下载新版，反之旧版。**
 
 *RGL：即RockStar Games Launcher，R星自家的游戏平台，无关steam/EPIC，也是GTA6全球唯一指定首发平台，下文同。*
 
- 本页面提供的新版汉化已整合dxvk2.1_32mod和显存修改补丁，默认可用显存在release - commandline.txt文件中修改。默认填写了2000，但这已经完全足够gta4使用，不需要改，直接玩就行。而旧版则啥也没整，主打的就是一个纯净。
+ 本页面提供的新版汉化已整合dxvk2.1_32mod和显存修改补丁，默认可用显存在release - commandline.txt文件中修改。默认填写了2000，已经完全满足gta4，别改直接玩就行。而旧版则啥也没整，主打的就是一个纯净。
 
 
 
-- **DXVK的资源已经放进下面赠品目录，解决问题的同时还能提高游戏帧数和稳定性。如果出现花屏或者卡顿，说明电脑不支持DXVK，硬件太老，只能使用旧版汉化。更换汉化版本的方式是直接覆盖文件。旧版汉化也支持DXVK。**
+- DXVK的资源已经放进下面赠品目录，解决问题的**同时还能提高游戏帧数和稳定性**。两版汉化均支持DXVK。**如果出现花屏或者卡顿，说明电脑不支持DXVK，硬件太老，只能使用旧版汉化。**
 
-  *彻底删除DXVK需要把d3d9和dxgi.dll删除*
+  *更换汉化版本：直接覆盖文件。*
+
+  *删除DXVK：删除d3d9和dxgi.dll*
+
+  *删除汉化：删除plugins/GTA4.CHS.asi*
 :::
 - [👉下载最新版0929](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoMDF2OXg1N21TX2hMMTRJP2U9U00yUXQ5.zip) 「更新时间：2022.09.29」　　  [ 👉汉化安装教程 ](./安装汉化/0：安装前准备.md)
 
