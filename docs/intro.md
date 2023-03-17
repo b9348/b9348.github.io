@@ -39,9 +39,9 @@ title: '《GTA4完整版》汉化导航'
 
 - **DXVK的资源已经放进下面赠品目录，解决问题的同时还能提高游戏帧数和稳定性。如果出现花屏或者卡顿，说明电脑不支持DXVK，硬件太老，只能使用旧版汉化。更换汉化版本的方式是直接覆盖文件。旧版汉化也支持DXVK。**
 
-  *彻底删除DXVK需要把d3d开头的3个文件和dxgi.dll删除*
+  *彻底删除DXVK需要把d3d9和dxgi.dll删除*
 :::
-- [👉下载最新版0929](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoMHh0ZmVMNC0ySjktLXQ3P2U9a1l2VDNv.zip) 「更新时间：2022.09.29」　　  [ 👉汉化安装教程 ](./安装汉化/0：安装前准备.md)
+- [👉下载最新版0929](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoMDF2OXg1N21TX2hMMTRJP2U9U00yUXQ5.zip) 「更新时间：2022.09.29」　　  [ 👉汉化安装教程 ](./安装汉化/0：安装前准备.md)
 
 - [👉旧版0614下载](https://wwi.lanzoup.com/ikQRg0di9yhc)
 
