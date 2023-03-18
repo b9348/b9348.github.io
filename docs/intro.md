@@ -50,9 +50,9 @@ title: '《GTA4完整版》汉化导航'
 
    *RGL* * *：即RockStar Games Launcher，R星自家的游戏平台，无关steam/EPIC，也是GTA6全球唯一指定首发平台，下文同。*
 :::
-- [👉下载最新版0929](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoMDF2OXg1N21TX2hMMTRJP2U9U00yUXQ5.zip) 「更新时间：2022.09.29」　　  [ 👉汉化安装教程 ](./安装汉化/0：安装前准备.md)
+- [👉下载最新版0929](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoMDdfcHI3UEFrV1dyeWc1P2U9RVF3ME9j.zip) 「更新时间：2022.09.29」　　  [ 👉汉化安装教程 ](./安装汉化/0：安装前准备.md)
 
-- [👉旧版0614下载](https://wwi.lanzoup.com/ikQRg0di9yhc)
+- [👉旧版0614下载](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFoMUJGd2tETExqMHZ1c1daP2U9VWFlQmdU.zip)
 
 
 - [[备用下载]&&[赠品目录]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
