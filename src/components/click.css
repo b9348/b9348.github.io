@@ -4,23 +4,28 @@
 }
 .ipt,.btn{
     outline-style: none ;
-    border: 1px solid #ccc; 
+    background: rgb(248,248,249);
+    border: 1px solid rgb(242,242,242); 
     border-radius: 3px;
     padding: 13px 14px;
-    width: 90%;
+    width: 100%;
     font-size: 14px;
     font-weight: 700;
     font-family: "Microsoft soft";
+    margin-bottom: 0.44rem;
 }
 .demo{
     outline-style: none ;
-    border: 1px solid #ccc;  
+    background: rgb(248,248,249);
+    border: 1px solid rgb(242,242,242); 
     padding: 3px 4px;
-    width: 90%;
+    width: 100%;
     font-size: 12px;
     font-weight: 700;
-    font-family: "Microsoft soft";
-
+    font-family: "Microsoft soft";text-align: center;
+}
+.ppp{
+    text-align: center;
 }
 .ipt:focus{
     border-color: #66afe9;

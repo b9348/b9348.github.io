@@ -14,7 +14,7 @@ export default function Click() {
   return (
     <div className="wrap">
       <p>
-        为防止重复问题过多，请在下方输入答案，并点击确认按钮来获得群号。不要输入任何空格/标点符号。
+        为防止重复问题过多，请在下方<b>输入答案</b>，并<b>点击确认</b>按钮来获得群号。不要输入任何空格/标点符号。
         <br /> 
       </p>
       <input
@@ -24,15 +24,15 @@ export default function Click() {
           "答案：我已阅读本站所有说明并遇到了意料之外的问题"
         }
       ></input>
-      <p>群号：{state ? 154428332 : "填入答案前不显示"}</p>
+      <p className="ppp">群号：{state ? 154428332 : "填入答案前不显示"}</p>
       <input
         ref={ipt}
         className="ipt"
         type="text"
         placeholder="请在此输入"
         onPaste={(e) => e.preventDefault()}
-      />
-      <input className="btn" type="button" onClick={clicked} value={"提交"} />
+      /> 
+      <input className="btn" type="button" onClick={clicked} value={"确认"} />
     </div>
   );
 }
