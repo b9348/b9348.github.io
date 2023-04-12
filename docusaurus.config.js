@@ -81,26 +81,22 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Wiki',
+          //       to: '/',
+          //     },
+          //   ],
+          // },
           {
-            title: 'Docs',
+            title: '开源地址',
             items: [
               {
-                label: 'Wiki',
-                to: '/',
-              },
-            ],
-          },
-          {
-            title: 'Contact',
-            items: [
-              {
-                label: 'GitHub issues',
+                label: 'GitHub - GTAIV-Complete-Edition-text',
                 href: 'https://github.com/GTAIV-Complete-Edition-text',
-              },
-              {
-                label: 'QQ Group',
-                href: 'https://qm.qq.com/cgi-bin/qm/qr?k=OcRKZEtiiSu6CDnqiEyB4Iwa3Dug7O3X&jump_from=webapi&authKey=+jnmyudSctolm1L0xDb3oqBBeOEylH1v4K+casB/6XeOiBIln9FxbWQqLh1DUPi9',
-              },
+              }
             ],
           },
         ],
@@ -120,7 +116,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '🚀 如果你觉得还不错, 就给一个 ⭐️ Start 吧 ~ <a target="_blank" rel="noopener noreferrer" href="https://github.com/GTAIV-Complete-Edition-text/feedback-IV.CHS">Click here</a> ',
+          '觉得不错, 就给一个 ⭐️ Start 吧<a target="_blank" rel="noopener noreferrer" href="https://github.com/GTAIV-Complete-Edition-text/feedback-IV.CHS">Click here</a> ',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,
