@@ -3,11 +3,12 @@
 
 # Production
 # /build
-
+server.bat
+s.js
 # Generated files
 .docusaurus
 .cache-loader
-
+/......
 # Misc
 .DS_Store
 .env.local

@@ -110,7 +110,7 @@ import Click from '@site/src/components/click';
 
 ##  #
 
-[友情链接：百度贴吧—GTA4吧（欢迎发帖讨论游戏与汉化）](https://jump2.bdimg.com/f?kw=gta4)
+[友情链接：百度贴吧—GTA4吧（欢迎发帖讨论游戏与汉化）](https://tieba.baidu.com/f?kw=gta4&ie=utf-8)
 
 感谢[百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=GTA4汉化导航)收录本站，可通过百度搜索如下关键词找到本站：[GTA4汉化导航](https://www.baidu.com/s?ie=UTF-8&wd=GTA4汉化导航) , [GTA4完整版](https://www.baidu.com/s?ie=UTF-8&wd=GTA4完整版) , [b9348.gitee.io](https://www.baidu.com/s?ie=UTF-8&wd=b9348.gitee.io) 
 
