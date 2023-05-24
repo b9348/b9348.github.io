@@ -132,7 +132,7 @@ const config = {
         },
         {
           name: 'msvalidate.01',
-          content: 'E95E84F34FA795B9B766086AFA806E13'
+          content: 'D356C8EFC2D1B543B6090AE0D672CB87'
         },
         {
           name: 'baidu-site-verification',
