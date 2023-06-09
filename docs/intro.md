@@ -87,6 +87,7 @@ import Click from '@site/src/components/click';
 - **不支持老电脑**，如Win7、32位系统、Maxwell架构之前的显卡、470以下的显卡驱动。如果是老电脑或者12代Intel核显、或遇到本文档预料之外的BUG，需删除DXVK。若在不支持DXVK的电脑上错误的使用了DXVK会出现如下或更多错误弹窗
 - ***re-install your game弹窗、re-boot your system弹窗、RGL弹窗game already/currently run-ning***
 - DXVK本身目标用户为Linux/Wine系统，**Windows10虽也可用**。但这会导致小部分电脑**（低概率问题）**游玩GTA4时使用DXVK会无法识别正确的分辨率（如1280*1024）、所有设备显存均被强制设定为512MB上限**（此问题为必现）**。2个问题需要手动配置commandline.txt文件来解决。若完美读取到本机分辨率，则不需配置分辨率项。仅加入显存上限2000M、窗口化命令（可选）方便你暂停游戏时切换屏幕查看聊天软件消息即可。[参考GitHub：https://github.com/doitsujin/dxvk/issues/1831](https://github.com/doitsujin/dxvk/issues/1831)
+- 把dxvk的d3d9.dll重命名d3d9_dxvk.dll并在enbseries.ini中设置ProxyLibrary=d3d9_dxvk.dll就可以实现enb和dxvk共存
 ~~~python
 #解决显存识别问题或DXVK无法正确读取分辨率，在游戏目录创建commandline.txt，填入如下但不包括本行：
 -width 1920 //长，自定义根据自身设备调整。
