@@ -34,7 +34,7 @@ title: '《GTA4完整版》汉化导航'
 
 
 :::
-- [👉立即下载0929新版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaXo0STEwcm9jMnhlJnBhc3NDb2RlPQ.zip)
+- [👉立即下载0929新版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaWF4YU4wemE4NDVp.zip)
 
 - [👉立即下载0614旧版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaWtRUmcwZGk5eWhjJnBhc3NDb2RlPQ.zip) 　　  [ 👉全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
  
