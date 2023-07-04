@@ -12,7 +12,7 @@ slug: /
 title: '《GTA4完整版》汉化导航'
 ---
 
-> **本站不再维护**
+> **最后更新日期：2023年7月4日 18:20:51**
 
 ## 前言
 
@@ -24,19 +24,18 @@ title: '《GTA4完整版》汉化导航'
 
 ## 下载
 
-:::danger 下载需知，汉化补丁共新&旧两版：
-- **旧版：存在概率性不高的[「字幕黑块（0614汉化）※」](#-问题说明)问题。**（指游戏的`字幕消失变黑`问题）
+:::danger 下载需知：
 
-- **新版**：修复错漏译及上述问题。 
-    
-    **注：碰到游戏本身的人物拖影、高帧车辆打滑、被关车库、上不去载具等BUG时，莫赖汉化，自行查看文档👉[老游戏P事就是多](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)，并根据需要安装[FusionFix错误修复补丁](https://wwi.lanzoup.com/b07xe74sj)。**
+**碰到游戏本身的人物拖影、高帧车辆打滑、被关车库、上不去载具等BUG时，莫赖汉化，自行查看本页面底部说明以及此文档👉[老游戏P事就是多](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)，并根据需要安装[FusionFix错误修复补丁](https://wwi.lanzoup.com/b07xe74sj)来锁定游戏帧数上限至30并修复游戏一些常现问题。**从人性化的角度还是推荐直接进入下方赠品镜像中下载安装「GTA4汉化补丁2023-07-04(包含FusionFix)」，下方前两个直链提供的文件均为10mb左右的原版。
+
+2023年7月4日汉化程序更新，文本无改动。如无意外，此版本即为最终版。该版补丁提供了两种类型的打包下载：zip和exe，它们的内容完全相同。如果您不熟悉压缩文件是什么，请下载exe版本。
 
 
 
 :::
-- [👉立即下载0929新版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaWF4YU4wemE4NDVp.zip)
+- [👉立即下载exe最终版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaUZWeHYxMWExcGxhJnBhc3NDb2RlPQ.exe)
 
-- [👉立即下载0614旧版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaWtRUmcwZGk5eWhjJnBhc3NDb2RlPQ.zip) 　　  [ 👉全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
+- [👉立即下载zip最终版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaU5aN1IxMWExcHNoJnBhc3NDb2RlPQ.zip) 　　  [ 👉全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
  
 
 - [[备用下载]&&[赠品目录]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
@@ -65,12 +64,19 @@ import Click from '@site/src/components/click';
 ![Image](intro.jpg)
 ## 🐞 问题说明
 
+2023年：
+
+> 7月4日（0704）汉化：
+- 修复了所有程序上已知的问题，现在不会出现任何影响游戏正常运行的错误。
+-   *如何更换汉化版本：直接覆盖文件。*
+-   *如何关闭汉化：删除plugins/GTA4.CHS.asi*
+ 
+2022年：
+
 > 9月29日（0929）汉化：
 - <del>偶有漏译</del>和错译。 
 - 解决了**「字幕黑块」**问题。
 - 自2023年4月起不再提供png图片字库版汉化下载。此版字库曾导致调整分辨率时出现DD3D80错误弹窗。
--   *如何更换汉化版本：直接覆盖文件。*
--   *如何关闭汉化：删除plugins/GTA4.CHS.asi*
   
 
 > 6月14日（0614）汉化：
@@ -78,6 +84,8 @@ import Click from '@site/src/components/click';
 - **「字幕黑块问题说明」**：无法在RGL（R星自家游戏平台）上正常使用。安装汉化文件后，游戏本身的文件会被替换，这会使游戏无法通过RGL平台启动时的「验证游戏完整性」机制，导致游戏文件被RGL还原至汉化前。非RGL，如steam、EPIC、GOG等平台，虽然没有这种**每次启动游戏时对游戏文件进行验证的严格机制**，但若偶遇RGL更新，依然会触发「验证游戏完整性」机制。**需要通过重新手动安装1次汉化来使其正常运行。**<del>看到了吧，千万不要买首发于RGL的GTA6否则不能打MOD。</del>
 - 在部分电脑上游玩TBOGT会出现如下概率性极小、极难出现，且汉化组成员无一稳定复现的BUG：读档后所有文字全部消失，需要重新进入游戏才能解决。目前尚未发现造成此bug的原因。如果有好心人愿意帮助我们稳定复现汉化bug，请加群。
 - 初版汉化制作时无RGL帐号<del>（甚至没想到居然会有人买RGL游戏）</del>，导致初版汉化发布后部分RGL正版用户使用时并不能完美适配<del>（你说你，多此一举干什么）</del>，所以不再更新维护这类替换文件做法的汉化MOD。
+
+附加内容：
 
 > DXVK说明(Steam Deck已集成dxvk，无需阅读此条。且因内容较多，网龄三年以下用户推荐不使用)
 - DXVK是能把原本D3D游戏转为Vulkan运行的补丁，**可以显著提升GTA4最低、最高、平均帧率**。[提升效果见此](https://www.bilibili.com/video/BV13v411M7Sx)。
