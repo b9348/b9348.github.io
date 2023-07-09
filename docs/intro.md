@@ -33,9 +33,9 @@ title: '《GTA4完整版》汉化导航'
 
 
 :::
-- [👉立即下载exe最终版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaUZWeHYxMWExcGxhJnBhc3NDb2RlPQ.exe)
+- [👉立即下载exe最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRUpvckF2N1FFTm9haVROP2U9VGRjdGJF.exe)
 
-- [👉立即下载zip最终版汉化补丁](https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2kubGFuem91cC5jb20vaU5aN1IxMWExcHNoJnBhc3NDb2RlPQ.zip) 　　  [ 👉全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
+- [👉立即下载zip最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRUJjaFVaRmh5M05Pa051P2U9RFQwdVZp.zip) 　　  [ 👉全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
  
 
 - [[备用下载]&&[赠品目录]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
@@ -121,6 +121,6 @@ import Click from '@site/src/components/click';
 
 [友情链接：百度贴吧—GTA4吧（欢迎发帖讨论游戏与汉化）](https://tieba.baidu.com/f?kw=gta4&ie=utf-8)
 
-感谢[百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=GTA4汉化导航)收录本站，可通过百度搜索如下关键词找到本站：[GTA4汉化导航](https://www.baidu.com/s?ie=UTF-8&wd=GTA4汉化导航) , [GTA4完整版](https://www.baidu.com/s?ie=UTF-8&wd=GTA4完整版) , [b9348.gitee.io](https://www.baidu.com/s?ie=UTF-8&wd=b9348.gitee.io) 
+感谢[百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=b9348.gitee.io)收录本站，可通过百度搜索如下关键词找到本站：[b9348.gitee.io](https://www.baidu.com/s?ie=UTF-8&wd=b9348.gitee.io) 
 
 感谢[Gitee码云](https://gitee.com/)提供的免费的Gitee Pages网站服务
