@@ -48,6 +48,7 @@ title: '《GTA4完整版》汉化导航'
 
 - [汉化文本&&程序源码](https://github.com/GTAIV-Complete-Edition-text)，本汉化MOD为开源项目。欢迎向我们提[lssues](https://github.com/GTAIV-Complete-Edition-text/feedback-IV.CHS/issues)以改进。
 
+- 感谢烏鴉(ozzysunn)为程序制作两个压缩包
 
 ## 📱 汉化客服群：
 管理员仅接受本站所列情况之外的求助，如果轻易进群并提出本站/群公告&群文件所列情况之内的问题，<del>势必</del>可能会遭到嘴臭/禁言等攻击性较强的侮辱。讨论则不拒绝。
