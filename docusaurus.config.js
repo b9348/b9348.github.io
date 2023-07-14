@@ -123,8 +123,12 @@ const config = {
       },
       metadata: [
         {
-          name: 'GTA4汉化导航站,提供一些关于《GTA4完整版》新汉化补丁的相关信息,本站致力于让每个用户在阅读完后都学会使用GTA4新汉化',
-          content: 'Wiki Database,GTA4,gta4,gta4完整版,gta4新汉化,汉化导航,汉化导航站,gta4汉化导航站,gta4汉化导航,gta4完整版汉化,正版gta4汉化,gta4最新版汉化,gta4中文补丁,gta4中文导航,gta4最新中文,gta4中文导航站',
+          name: 'Description',
+          content: 'GTA4汉化导航站,提供一些关于《GTA4完整版》新汉化补丁的相关信息,本站致力于让每个用户在阅读完后都学会使用GTA4新汉化',
+        },
+        {
+          name: 'Keywords',
+          content: 'GTA4,gta4,gta4完整版,gta4新汉化,汉化导航,汉化导航站,gta4汉化导航站,gta4汉化导航,gta4完整版汉化,正版gta4汉化,gta4最新版汉化,gta4中文补丁,gta4中文导航,gta4最新中文,gta4中文导航站',
         },
         {
           name: 'google-site-verification',
