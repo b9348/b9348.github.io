@@ -29,9 +29,9 @@ title: "《GTA4完整版》汉化导航"
 
 - [👉 立即下载 zip 最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRnZfLVVKendPX3hZUklSP2U9Y0V3RFdw.zip) 　　 [ 👉 全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
 
-- [[备用下载]&&[赠品目录]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
+- [[备用下载]&&[赠品]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
 
-<!-- - [[备用下载]&&[赠品目录]：百度云](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234) -->
+- [[备用下载]&&[赠品]：百度云](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
 
 - [汉化问题反馈收集表 - 腾讯文档](https://docs.qq.com/form/page/DQXdCd1BwT1VrbXV5)
 
