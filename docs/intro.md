@@ -19,15 +19,15 @@ title: "《GTA4完整版》汉化导航"
 
 :::danger 下载需知：
 
-**碰到游戏本身的人物拖影、高帧车辆打滑、被关车库、上不去载具等 BUG 时，莫赖汉化，自行查看本页面底部说明以及此文档 👉[《GTA4游戏bug全解》](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)，并根据需要安装[FusionFix 错误修复补丁](https://wwi.lanzoup.com/b07xe74sj)来锁定游戏帧数上限至 30 并修复游戏一些常现问题。**下方前两个直链提供的文件均为 10mb 左右的原版，不过从人性化的角度还是推荐直接进入下方赠品镜像中下载安装「GTA4 汉化补丁 2023-07-04(包含 FusionFix)」。
+**碰到游戏本身的人物拖影、高帧车辆打滑、被关车库、上不去载具等 BUG 时，莫赖汉化，自行查看此文档 👉[《GTA4游戏bug全解》](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)，并根据需要安装[FusionFix 错误修复补丁](https://wwi.lanzoup.com/b07xe74sj)来锁定游戏帧数上限至 30 并修复游戏一些常现问题。**下方前两个直链提供的文件均为 10mb 左右的原版，从人性化的角度推荐进入赠品镜像中下载安装「GTA4 汉化补丁 2023-07-04(包含 FusionFix)」。
 
-2023 年 7 月 4 日汉化程序更新，修复程序所有已知 bug。文本相较旧版无改动，如无意外此版本即为最终版。下方同时提供 zip 和 exe 两种类型的汉化包，内容完全相同。若您不了解压缩文件，请下载 exe 版本。
+2023 年 7 月 4 日程序更新修复所有已知 bug。文本较旧版无改动，<del>如无意外</del>此版本即为最终版。下方同时提供 .zip 和 .exe 的汉化包，内容完全相同。若您不了解「压缩」，请下载 .exe 版本。
 
 :::
 
-- [👉 立即下载 exe 最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRmtuY2FEM21ZbFk1bUYwP2U9dTc5cVpt.exe)
+- [👉 立即下载 .exe 最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRmtuY2FEM21ZbFk1bUYwP2U9dTc5cVpt.exe)
 
-- [👉 立即下载 zip 最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRnZfLVVKendPX3hZUklSP2U9Y0V3RFdw.zip) 　　 [ 👉 全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
+- [👉 立即下载 .zip 最终版汉化补丁](https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRnZfLVVKendPX3hZUklSP2U9Y0V3RFdw.zip) 　　 [ 👉 全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
 > 一旦下载失败则不要犹豫立即使用下方的备用下载。
 
 - [[备用下载]&&[赠品]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
