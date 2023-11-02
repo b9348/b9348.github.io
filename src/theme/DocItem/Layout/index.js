@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{ useEffect } from 'react';
 import clsx from 'clsx';
 import {useWindowSize} from '@docusaurus/theme-common';
 import {useDoc} from '@docusaurus/theme-common/internal';
@@ -36,6 +36,20 @@ export default function DocItemLayout({children}) {
   const docTOC = useDocTOC();
   const { frontMatter } = useDoc();
   const { hide_comment: hideComment } = frontMatter;
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.src = "https://client.crisp.chat/l.js";
+    script.async = true;
+    document.body.appendChild(script);
+  
+    window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "5954cced-b076-41e5-b6a4-6098cf8265b9";
+  
+    return () => {
+      document.body.removeChild(script);
+    }
+  }, []);
+  
   return (
     <>
   <div className="row">
