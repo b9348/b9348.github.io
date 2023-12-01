@@ -9,8 +9,7 @@ const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
 const config = {
   title: 'gta4汉化导航站',
   scripts: [
-    { src: 'https://hm.baidu.com/hm.js?de86b38bbc3dec5ed31c4da285286374', async: true },
-    { src: 'busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js', async: true }
+    { src: 'https://hm.baidu.com/hm.js?de86b38bbc3dec5ed31c4da285286374', async: true }
   ],
   tagline: 'gta4汉化导航网站,欢迎访问~',
   url: 'https://b9348.gitee.io',

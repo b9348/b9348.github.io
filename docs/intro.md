@@ -99,4 +99,8 @@ import Click from '@site/src/components/click';
 **关于转载：**首先感谢各位捧场转载并用自身的流量发布此模组。<br/>
 但是！请各位转载时不要直接转载走汉化文件，请仅提供此页或赠品页作为下载链接。此举用以防止哪一天我们突然找到了某个新的bug或者是翻译文本进行更新时，旧版汉化仍在流传，从而导致各种意料之外的bug出现并得不到及时解决。
 
-<span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span></span>
+
+<span >
+<img alt="Static Badge" style={{display: 'inline-block' }} src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%E9%87%8F-30%2C000%2B-blue" /><img alt="Static Badge"  style={{display: 'inline-block' }}  src="https://img.shields.io/badge/%E6%80%BB%E8%AE%BF%E5%AE%A2-300%2C000%2B-green" /><img alt="Static Badge" style={{display: 'inline-block' }}   src="https://img.shields.io/badge/%E6%80%BB%E7%BE%A4%E5%91%98-1%2C300%2B-yellow"/>
+
+ </span>
