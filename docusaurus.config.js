@@ -12,7 +12,7 @@ const config = {
     { src: 'https://hm.baidu.com/hm.js?de86b38bbc3dec5ed31c4da285286374', async: true }
   ],
   tagline: 'gta4汉化导航网站,欢迎访问~',
-  url: 'https://b9348.gitee.io',
+  url: 'https://b9348.pages.dev',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
@@ -20,8 +20,8 @@ const config = {
   organizationName: 'b9348', // Usually your GitHub org/user name.
   projectName: "b9348", // Usually your repo name.
   i18n: {
-    defaultLocale: 'zh-cn',
-    locales: ['zh-cn'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN'],
   },
 
   presets: [
@@ -132,15 +132,15 @@ const config = {
         },
         {
           name: 'google-site-verification',
-          content: 'SqAJCwVJ1y-5Bb5O7CHpzjDqFFkhGTWScq-QZ0keg_U'
+          content: 'aKKnTwH1WGypsT4DbyVqKTY4Qt2Fi0NiOTikk8Us8w4'
         },
         {
           name: 'msvalidate.01',
-          content: 'D356C8EFC2D1B543B6090AE0D672CB87'
+          content: 'E95E84F34FA795B9B766086AFA806E13'
         },
         {
           name: 'baidu-site-verification',
-          content: 'codeva-XC1KNC8ikp'
+          content: 'codeva-F9zJ8XScFQ'
         }
       ],
     }),
