@@ -41,6 +41,8 @@ title: "《GTA4完整版》汉化导航"
 
 - 感谢烏鴉(ozzysunn)为汉化程序制作两个压缩包
 
+- 繁体中文：[https://github.com/Megumi-B/GTA4_FullTran_CHT](https://github.com/Megumi-B/GTA4_FullTran_CHT)
+
 ## 📱 汉化客服群：
 
 - [赠品文档 👉 《GTA4游戏bug全解》](./GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
