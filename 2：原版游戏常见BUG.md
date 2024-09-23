@@ -12,7 +12,7 @@ tags: [杂项]
 - 部分任务无限载入
 
 - 过场动画中的放大镜头推过头卡死  
-  可通过安装 [Fusion Fix](https://wwi.lanzoup.com/b07xe74sj) 修改 FOV 解决
+  可通过安装 [Fusion Fix](https://pan.huang1111.cn/s/9Q2n5Cd?path=%2F) 修改 FOV 解决
 
 - 过场动画中的卷帘门关得太早，人卡在车库门口出不去
 
@@ -28,7 +28,7 @@ tags: [杂项]
 
 锁60帧解决大部分问题，**锁30帧+窗口化解决全部问题**。
 
-可通过专为 GTA 4 制作的 [Fusion Fix](https://wwi.lanzoup.com/b07xe74sj) 修复包中的 `FpsLimit` 和 `CutsceneFpsLimit` 选项，对游戏帧数与过场动画帧数单独进行设置。
+可通过专为 GTA 4 制作的 [Fusion Fix](https://pan.huang1111.cn/s/9Q2n5Cd?path=%2F) 修复包中的 `FpsLimit` 和 `CutsceneFpsLimit` 选项，对游戏帧数与过场动画帧数单独进行设置。
 
 通过其他软件临时限制帧数亦可，甚至可以拔了笔记本电源，或是在任务管理器里把游戏设置成单核运行。
 
@@ -66,10 +66,10 @@ tags: [杂项]
   如果以上方案都无法解决，请等待R星更新RGL或游戏。
 
 - 切出游戏窗口，再切回来游戏黑屏卡死  
-  解决方案：安装 [Fusion Fix](https://wwi.lanzoup.com/b07xe74sj)，启用无边框窗口化。
+  解决方案：安装 [Fusion Fix](https://pan.huang1111.cn/s/9Q2n5Cd?path=%2F)，启用无边框窗口化。
 
 - 启动游戏后卡在法律声明界面  
-  解决方案：安装 [Fusion Fix](https://wwi.lanzoup.com/b07xe74sj)，启用无边框窗口化。
+  解决方案：安装 [Fusion Fix](https://pan.huang1111.cn/s/9Q2n5Cd?path=%2F)，启用无边框窗口化。
 
 -  **警车电脑** 中的 **最高通缉** 任务，如果玩家离选择的目标位置较近，警车电脑就会莫名其妙地提示 **"正在上传图片"** ，导致游戏卡死在这一界面。  
    **无解，只能强制退出游戏** 。

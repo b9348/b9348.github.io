@@ -5,7 +5,7 @@ slug: /
 title: "《GTA4完整版》汉化导航"
 ---
 
-> **最后更新日期：2024年5月17日16:17:21**
+> **最后更新日期：2024年9月23日16:17:21**
 
 ## 前言
 
@@ -19,25 +19,27 @@ title: "《GTA4完整版》汉化导航"
 
 :::danger 下载需知：
 
-**新玩家注意了：出现人物拖影、高帧车辆打滑、被关车库、上不去载具等影响体验的 BUG 时，别赖我们汉化，自己看我们总结出来的GTA4自带bug文档： <br/>👉[《GTA4游戏bug全解》](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)，<br/>强烈推荐安装　👉[FusionFix 错误修复补丁](https://wwi.lanzoup.com/b07xe74sj)　来锁定游戏帧数上限至 30 并修复一些游戏常见问题。**<br/>下载处前两个直链提供的文件均为 10mb 左右的原版汉化。但从人性化的角度更推荐进入赠品镜像中下载安装「GTA4 汉化补丁 2023-07-04(包含 FusionFix)」整合包一个顶俩，这样就省去你分开装汉化+修复补丁的步骤了。
+**新玩家注意了：出现人物拖影、高帧车辆打滑、被关车库、上不去载具等影响体验的 BUG 时，别赖我们汉化，自己看我们总结出来的GTA4自带bug文档： <br/>👉[《GTA4游戏bug全解》](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)，<br/>强烈推荐安装　👉[FusionFix 错误修复补丁](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/blob/master/readme.md)　来锁定游戏帧数上限至 30 并修复一些游戏常见问题。**<br/>下载处前两个直链提供的文件均为 10mb 左右的原版汉化。但仍推荐你从赠品备用下载包含 FusionFix 的汉化整合包，一个顶俩，这样就省去你分开装汉化+修复补丁的步骤了。
 
 下方同时提供 .zip 和 .exe 的汉化包，内容完全相同。若您不了解「压缩」，请下载 .exe 版本。
 
-*汉化支持win10/11，steamdeck，暂不支持RGL正版。如果你买了RGL（即：R星官方游戏平台，下同），自己去Steam买一份，然后打赠品里的破解补丁正转盗版。别问为什么问就是速度快。买完以后退款与否随便你，理论上这些游戏都是老佛爷请你玩的。不过你要有这钱推荐你打给我们汉化组*
+*汉化支持win10/11，steamdeck，暂不支持RGL正版。如果你买了RGL（即：R星官方游戏平台，下同），自己去Steam买一份，然后打赠品里的破解补丁正转盗版（不是RGL正版受害者就别这么搞了，人总得要点脸）。别问为什么问就是速度快。买完以后退款与否随便你，理论上这些游戏都是老佛爷请你玩的。不过你要有这钱推荐你打给我们汉化组*
 :::
 
-- [👉 立即下载 .exe 最终版汉化补丁](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRmtuY2FEM21ZbFk1bUYwP2U9dTc5cVpt.exe)
+- [👉 立即下载 .exe 最终版汉化补丁](https://cloudflare-imgbed-4n1.pages.dev/file/1727106008861_GTA4汉化补丁2023-07-04.exe)
 
-- [👉 立即下载 .zip 最终版汉化补丁](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBczVoZ0w4dTlPMzFpRnZfLVVKendPX3hZUklSP2U9Y0V3RFdw.zip) 　　 [ 👉 全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
+- [👉 立即下载 .zip 最终版汉化补丁](https://cloudflare-imgbed-4n1.pages.dev/file/1727105849241_GTA4汉化补丁2023-07-04.zip) 　　 [ 👉 全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
 > 下载失败？备用下载啊，下面有，别什么都问。
 
-- [[备用下载]&&[赠品]：蓝奏云](https://wwi.lanzoup.com/b07xe74sj)
+- [[备用下载] & [赠品]：野鸡网盘，仅含整合汉化，下载比百度云快](https://pan.huang1111.cn/s/9Q2n5Cd)
 
-- [[备用下载]&&[赠品]：百度云](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
+- [[备用下载] & [赠品]：蓝奏云，维新派赠品，内无汉化，包含修改器刷车器](https://wwi.lanzoup.com/b07xe74sj)
+
+- [[备用下载] & [赠品]：百度云，守旧派赠品，包含汉化，备份用](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
 
 - [汉化问题反馈收集表 - 腾讯文档](https://docs.qq.com/form/page/DQXdCd1BwT1VrbXV5)
 
-- [汉化文本&&程序源码](https://github.com/GTAIV-Complete-Edition-text)，本汉化 MOD 为开源项目。欢迎向我们提[lssues](https://github.com/GTAIV-Complete-Edition-text/feedback-IV.CHS/issues)以改进。
+- [汉化文本 & 程序源码](https://github.com/GTAIV-Complete-Edition-text)，本汉化 MOD 为开源项目。欢迎向我们提[lssues](https://github.com/GTAIV-Complete-Edition-text/feedback-IV.CHS/issues)以改进。
 
 - 感谢烏鴉(ozzysunn)为汉化程序制作两个压缩包
 
