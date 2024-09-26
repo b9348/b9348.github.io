@@ -7,27 +7,6 @@ title: "《GTA4完整版》汉化导航"
 
 > **最后更新日期：2024 年 9 月 23 日 16:17:21**
 
-::: code-group
-
-```sh [npm]
-npm install vitepress-plugin-group-icons
-```
-
-```sh [yarn]
-yarn add vitepress-plugin-group-icons
-```
-
-```sh [pnpm]
-pnpm add vitepress-plugin-group-icons
-```
-
-```sh [bun]
-bun add vitepress-plugin-group-icons
-```
-
-:::
-
-
 ## 📄前言
 
 > 2016 年，年底 GTA4 进行了一次更新，原有汉化补丁全部失效，随后无名汉化组立项四代汉化。<br/>
