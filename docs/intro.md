@@ -20,7 +20,7 @@ title: "《GTA4完整版》汉化导航"
 :::
 
 :::tip 关于修复补丁：
-- 通过安装👉[FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/blob/master/readme.md)*（英文文档，可使用浏览器自带翻译功能。我建议你看完，FusionFix强到什么程度？用一句话形容：不下FF你就别玩gta4）*来锁定游戏帧数上限至 30 并修复一些游戏常见错误。
+- 通过安装👉[FusionFix📄](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/blob/master/readme.md)*（英文文档，可使用浏览器自带翻译功能。我建议你看完，FusionFix强到什么程度？用一句话形容：不下FF你就别玩gta4）*来锁定游戏帧数上限至 30 并修复一些游戏常见错误。
  
 - 下载处前两个直链提供的文件均为 10mb 左右的原版汉化。但仍推荐你从赠品备用下载包含 FusionFix 的汉化整合包，一个顶俩，这样就省去你分开装汉化+修复补丁的步骤了。
 :::
@@ -34,17 +34,19 @@ title: "《GTA4完整版》汉化导航"
 汉化支持 win10/11/steamdeck。如果你买了 RGL 发现不支持（即：R 星官方游戏平台，下同），自己去 Steam 买一份，然后打赠品里的破解补丁正转盗版。别问为什么问就是速度快（不是 RGL 正版受害者就别这么搞了，人总得要点脸）。买完以后退款与否随便你，不过你要有这钱推荐你打给我们汉化组_
 :::
 
-- [👉 立即下载 .exe 最终版汉化补丁](https://cloudflare-imgbed-4n1.pages.dev/file/1727106008861_GTA4汉化补丁2023-07-04.exe)
+import DlBtn from '@site/src/components/dlbtn';
 
-- [👉 立即下载 .zip 最终版汉化补丁](https://cloudflare-imgbed-4n1.pages.dev/file/1727105849241_GTA4汉化补丁2023-07-04.zip) 　　 [ 👉 全系统安装汉化教程 ](./安装汉化/0：安装前准备.md)
+<DlBtn />
 
-  > 下载失败？备用下载啊，下面有，别什么都问。
+- [ 👉 安装教程 📄 ](./安装汉化/0：安装前准备.md)
 
-- [[备用下载] & [赠品]：野鸡网盘，仅含整合汉化，下载比百度云快](https://pan.huang1111.cn/s/9Q2n5Cd)
 
-- [[备用下载] & [赠品]：蓝奏云，维新派赠品，无整合包，包含修改器刷车器](https://wwi.lanzoup.com/b07xe74sj)
+> 下载失败？备用下载啊，下面有，别什么都问。
 
-- [[备用下载] & [赠品]：百度云，守旧派赠品，包含汉化，下载最慢，备份用](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
+- 备用下载&赠品镜像
+  - [野鸡云盘：用迅雷IDM下载比百度云快](https://pan.huang1111.cn/s/9Q2n5Cd)
+  - [蓝奏云：内无整合汉化](https://wwi.lanzoup.com/b07xe74sj)
+  - [百度云：守旧派赠品，下载最慢，备份用](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
 
 - [汉化问题反馈收集表 - 腾讯文档](https://docs.qq.com/form/page/DQXdCd1BwT1VrbXV5)
 
@@ -56,15 +58,16 @@ title: "《GTA4完整版》汉化导航"
 
 ## 📱 汉化客服群：
 
-- [赠品文档 👉 《GTA4 游戏 bug 全解》（站内）](./GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+- [赠品文档 👉 《GTA4 游戏 bug 全解》📄（站内）](./GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
 
-- [赠品文档 👉 《GTA4mod 教程》（英文网页，自行使用浏览器翻译，包含各种贴图、雨滴、灯光、服装等等各种游戏内容的更新和修复，难度很高，十分复杂，没耐心别看）](https://gillian-guide.github.io/)
+- [赠品文档 👉 《GTA4mod 教程》📄（英文网页，自行使用浏览器翻译，包含各种贴图、雨滴、灯光、服装等等各种游戏内容的更新和修复，难度很高，十分复杂，没耐心别看）](https://gillian-guide.github.io/)
 
 加群须知：如果你进群直接问问题，还被我们发现这是个你在网站能找到答案的问题，那我们一定会骂你的，狠狠地喷你个狗血淋头。如果你碰到的这个问题在这个网站上没有列出来，那欢迎你尽情提问，不过最好多发图。如果你想讨论游戏那欢迎
 
 **人数较多，警惕电信诈骗。**
 
 import Click from '@site/src/components/click';
+
 
 <Click />
 
@@ -126,3 +129,9 @@ import Click from '@site/src/components/click';
 <img alt="Static Badge" style={{display: 'inline-block' }}   src="https://img.shields.io/badge/%E6%80%BB%E7%BE%A4%E5%91%98-1%2C300%2B-yellow"/>
 
  </span>
+
+<br />
+
+:::info Steam正版直达
+<iframe src="https://store.steampowered.com/widget/12210/?t=steam%E6%AD%A3%E7%89%88%E8%B4%AD%E4%B9%B0%E9%A1%B5" frameborder="0" width="100%" height="190"></iframe>
+:::
