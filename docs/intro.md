@@ -19,10 +19,10 @@ title: "《GTA4完整版》汉化导航"
 **出现人物拖影、高帧车辆打滑、被关车库、上不去载具等影响体验的 BUG 时，别赖我们新GTA4汉化补丁，自己看我们总结出来的 GTA4 自带 bug 文档：👉[《GTA4 游戏 bug 全解》](../docs/GTA4%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E5%85%B3%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%EF%BC%89/1%EF%BC%9A%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)**
 :::
 
-:::tip 关于修复补丁：
-- 通过安装👉[FusionFix📄](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/blob/master/readme.md)*（英文文档，可使用浏览器自带翻译功能。我建议你看完，FusionFix强到什么程度？用一句话形容：不下FF你就别玩gta4）*来锁定游戏帧数上限至 30 并修复一些游戏常见错误。
+:::tip 关于bug修复补丁：
+- 安装👉[FusionFix📄](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/blob/master/readme.md)来锁定游戏帧数上限至 30 并修复一些游戏常见错误。*（虽然是英文文档，但仍建议你用浏览器自带翻译功能看完，因为FusionFix很强大，用一句话形容：不装你就别玩gta4）*
  
-- 下载处前两个直链提供的文件均为 10mb 左右的原版汉化。但仍推荐你从赠品备用下载包含 FusionFix 的汉化整合包，一个顶俩，这样就省去你分开装汉化+修复补丁的步骤了。
+- 下载处前两个均为 10mb 左右的原版汉化。但仍推荐你从**赠品备用下载**包含 FusionFix 的汉化整合包，**一个顶俩**，这样就**省去**你**分开装**汉化+修复补丁的步骤了。
 :::
 
 :::danger 下载须知:
@@ -43,10 +43,10 @@ import DlBtn from '@site/src/components/dlbtn';
 
 > 下载失败？备用下载啊，下面有，别什么都问。
 
-- 备用下载&赠品镜像
-  - [野鸡云盘：用迅雷IDM下载比百度云快](https://pan.huang1111.cn/s/9Q2n5Cd)
-  - [蓝奏云：内无整合汉化](https://wwi.lanzoup.com/b07xe74sj)
+- ⚡备用下载&赠品镜像 **列表**
+  - [野鸡云：直接下日期最新的，用迅雷IDM下载比百度云快](https://drive.almondcloud.cn/s/0QXQIb)
   - [百度云：守旧派赠品，下载最慢，备份用](https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234)
+  - [蓝奏云：内无整合汉化，历史遗留网盘，仅做展示，推荐不看](https://wwi.lanzoup.com/b07xe74sj)
 
 - [汉化问题反馈收集表 - 腾讯文档](https://docs.qq.com/form/page/DQXdCd1BwT1VrbXV5)
 
@@ -73,7 +73,9 @@ import Click from '@site/src/components/click';
 
 由于图片不支持**点击查看大图**，可在浏览器新标签页中**查看大图**
 
-![Image](intro.jpg)
+![intro.jpg](https://cloudflare-imgbed-4n1.pages.dev/file/1734112409823_intro.jpg)
+
+
 
 <!-- ## 🐞 问题说明
 
