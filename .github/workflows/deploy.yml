@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # 如果你的主分支是 master，请改为 master
+      - reactpress  # 如果你的主分支是 master，请改为 master
 
 jobs:
   deploy:
