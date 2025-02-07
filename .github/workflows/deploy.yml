@@ -1,25 +1,38 @@
-name: Deploy Docusaurus
+name: Deploy Docusaurus to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # 如果你的主分支是 master，请修改此处
+    paths:
+      - '**.md'
+      - 'docs/**'
+      - 'src/**'
+      - 'docusaurus.config.js'
+      - 'sidebars.js'
+      - 'package.json'
+      - 'yarn.lock'
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许写入 GitHub Pages 分支
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          node-version: '18'
+          fetch-depth: 0  # 获取完整提交历史
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'  # 推荐使用 LTS 版本
+          cache: 'yarn'
 
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --frozen-lockfile
 
       - name: Build Docusaurus
         run: yarn build
@@ -27,5 +40,8 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # 或使用 secrets.PERSONAL_TOKEN
+          publish_dir: ./build  # Docusaurus 的默认构建目录
+          # 如果使用自定义域名，需要 CNAME 文件
+          # cname: your-domain.com
+          keep_files: false  # 清除目标分支的现有文件
