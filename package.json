@@ -2,17 +2,18 @@
   "name": "my-website",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://b9348.github.io/",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "cloudflare": "yarn install && yarn build"
+    "cloudflare": "yarn install && yarn build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@docusaurus/core": "^2.1.0",
@@ -20,6 +21,7 @@
     "@giscus/react": "^2.2.0",
     "@mdx-js/react": "^1.6.21",
     "clsx": "^1.1.1",
+    "gh-pages": "^6.3.0",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
