@@ -2,32 +2,37 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ "reactpress" ]  # 仅在main分支有push时触发
+    branches:
+      - reactpress  # 如果你的主分支是 master，请改为 master
 
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest  # 使用最新Ubuntu系统环境
+  deploy:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4  # 检出代码到工作目录
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js 18.x
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18.x  # 指定Node.js版本
-          cache: 'npm'  # 缓存npm依赖加速后续构建
+          node-version: 18  # 使用与项目兼容的 Node 版本
 
-      - name: Install Dependencies
-        run: npm ci  # 推荐使用ci命令保持依赖一致性
+      - name: Install dependencies
+        run: npm install
 
-      - name: Build Project
-        run: npm run build  # 执行构建命令，生成静态文件
+      - name: Build project
+        run: npm run build
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
 
       - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3  # 使用高效部署工具
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # 自动注入的鉴权Token
-          publish_dir: ./build  # 文档龙的默认输出目录（按需修改）
-          destination_dir: ./  # 部署到gh-pages根目录
-          force_orphan: true  # 强制清空历史，避免冗余提交
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          force_orphan: true
+          keep_files: false
