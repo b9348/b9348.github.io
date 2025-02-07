@@ -36,5 +36,5 @@ jobs:
           publish_dir: ./build
           # 强制清空历史提交记录（可选）
           force_orphan: true
-          # 保持构建目录结构不
+          # 保持构建目录结构
           keep_files: false
