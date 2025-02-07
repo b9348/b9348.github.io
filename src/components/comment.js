@@ -9,14 +9,14 @@ export default function comment() {
     <BrowserOnly fallback={<div>Loading Comments...</div>}>
       {() => <span>{<Giscus
         id="comments"
-        repo="b9348/gta4replies"
-        repoId="R_kgDOISz7Ag"
+        repo="b9348/b9348.github.io"
+        repoId="R_kgDOGlIeKQ"
         category="Announcements"
-        categoryId="DIC_kwDOISz7As4CSKLm"
-        mapping="url"
+        categoryId="DIC_kwDOGlIeKc4CmurR"
+        mapping="title"
         term="欢迎留言捏。"
         strict="0"
-        reactionsEnabled="1"
+        reactionsEnabled="0"
         emitMetadata="0"
         inputPosition="top"
         theme="preferred_color_scheme"
@@ -24,8 +24,7 @@ export default function comment() {
         loading="lazy"
         crossorigin="anonymous"
         {...giscus}
-    />}</span>}
-      
+      />}</span>}
     </BrowserOnly>
   );
 }
