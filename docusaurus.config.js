@@ -140,7 +140,7 @@ const config = {
         },
         {
           name: 'baidu-site-verification',
-          content: 'codeva-F9zJ8XScFQ'
+          content: 'codeva-jM9srC2OdY'
         }
       ],
     }),
