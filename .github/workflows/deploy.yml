@@ -1,44 +1,38 @@
-name: Deploy
+name: Deploy to GitHub Pages
+
 on:
   push:
-    branches: reactpress
-  pull_request:
-    branches: reactpress
+    branches:
+      - reactpress  # 如果你的主分支是 master，请改为 master
 
 jobs:
   deploy:
-    name: Deploy
     runs-on: ubuntu-latest
 
-    permissions:
-      id-token: write # Needed for auth with Deno Deploy
-      contents: read # Needed to clone the repository
-
     steps:
-      - name: Clone repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Deno
-        uses: denoland/setup-deno@v2
-        with:
-          deno-version: v2.x
-
-      - name: Install Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: lts/*
+          node-version: 18  # 使用与项目兼容的 Node 版本
 
-      - name: Install step
-        run: "yarn "
+      - name: Install dependencies
+        run: npm install
 
-      - name: Build step
-        run: "yarn run build"
+      - name: Build project
+        run: npm run build
 
-      - name: Upload to Deno Deploy
-        uses: denoland/deployctl@v1
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          project: "b9348"
-          entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
-          root: "build"
-          
-          
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          force_orphan: true
+          keep_files: false
