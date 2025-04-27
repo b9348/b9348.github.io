@@ -5,12 +5,37 @@ const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const oceanicNext = require('prism-react-renderer/themes/oceanicNext')
 const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
+
+// 读取环境变量
+require('dotenv').config();
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'gta4汉化导航站',
   scripts: [
     { src: 'https://hm.baidu.com/hm.js?de86b38bbc3dec5ed31c4da285286374', async: true }
   ],
+  // 将环境变量注入到客户端代码中
+  customFields: {
+    downloadLinks: {
+      // 原版下载链接
+      downloadZipUrl: process.env.DOWNLOAD_ZIP_URL || 'https://cloudflare-imgbed-4n1.pages.dev/file/1727105849241_GTA4汉化补丁2023-07-04.zip',
+      downloadExeUrl: process.env.DOWNLOAD_EXE_URL || 'https://cloudflare-imgbed-4n1.pages.dev/file/1727106008861_GTA4汉化补丁2023-07-04.exe',
+
+      // 整合包下载链接
+      downloadIntegratedZipUrl: process.env.DOWNLOAD_INTEGRATED_ZIP_URL || 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mNWVkZjQyZWJmODA2MWNlL0VmbmRSVWQ1aHhSQWp4WjQxdjYwRDAwQmtmbTZSdnVpZ3Rfb3k1RGo1T00wZHc_ZT15OXA2Rlo.zip',
+      downloadIntegratedExeUrl: process.env.DOWNLOAD_INTEGRATED_EXE_URL || 'https://acbox.app/f/22zmI8/GTA4%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%812024-09-13.exe',
+
+      // 备用下载链接
+      backupYejiUrl: process.env.BACKUP_YEJIYUN_URL || 'https://pan.huang1111.cn/s/9Q2n5Cd?path=%2F',
+      backupBaiduUrl: process.env.BACKUP_BAIDU_URL || 'https://pan.baidu.com/share/init?surl=lYiAaFVzQGpJD79Fx56ZZw&pwd=1234',
+      backupLanzouUrl: process.env.BACKUP_LANZOU_URL || 'https://wwnr.lanzouv.com/b07xe74sj',
+      backupYongshuoUrl: process.env.BACKUP_YONGSHUO_URL || 'http://bigsb250.ysepan.com',
+
+      // 新的备用链接 - 野鸡云
+      backupAcboxUrl: process.env.BACKUP_ACBOX_URL || 'https://acbox.app/s/0QXQIb',
+    }
+  },
   tagline: 'gta4汉化导航网站,欢迎访问~',
   url: 'https://b9348.pages.dev',
   baseUrl: '/',
@@ -67,7 +92,7 @@ const config = {
         // logo: {
         //   alt: 'My Site Logo',
         //   src: 'img/favicon.ico',
-        // },        
+        // },
         items: [
           {
             type: 'doc',

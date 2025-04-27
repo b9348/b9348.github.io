@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './modalAd.css'; // 确保你有相应的CSS文件来处理样式
 
 const ModalAd = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
 
   const closeModal = () => {
     setIsOpen(false);
