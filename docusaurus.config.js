@@ -1,10 +1,11 @@
 // @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github')
-const darkCodeTheme = require('prism-react-renderer/themes/dracula')
-const oceanicNext = require('prism-react-renderer/themes/oceanicNext')
-const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
+const { themes } = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
+const oceanicNext = themes.oceanicNext;
+const duotoneLight = themes.duotoneLight;
 
 // 读取环境变量
 require('dotenv').config();
@@ -12,6 +13,9 @@ require('dotenv').config();
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'gta4汉化导航站',
+  future: {
+    experimental_faster: true, // 启用所有性能优化，包括 Rspack
+  },
   scripts: [
     { src: 'https://hm.baidu.com/hm.js?de86b38bbc3dec5ed31c4da285286374', async: true }
   ],
@@ -133,6 +137,7 @@ const config = {
         darkTheme: oceanicNext,
         // theme: duotoneLight,
         // darkTheme: oceanicNext,
+        additionalLanguages: ['bash', 'diff', 'json', 'jsx', 'tsx', 'css'],
       },
       tableOfContents: {
         minHeadingLevel: 2,

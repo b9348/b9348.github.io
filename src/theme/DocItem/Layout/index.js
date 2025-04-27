@@ -1,7 +1,7 @@
 import React,{ useEffect } from 'react';
 import clsx from 'clsx';
 import {useWindowSize} from '@docusaurus/theme-common';
-import {useDoc} from '@docusaurus/theme-common/internal';
+import {useDoc} from '@docusaurus/plugin-content-docs/client';
 import DocItemPaginator from '@theme/DocItem/Paginator';
 import DocVersionBanner from '@theme/DocVersionBanner';
 import DocVersionBadge from '@theme/DocVersionBadge';
@@ -41,15 +41,15 @@ export default function DocItemLayout({children}) {
     script.src = "https://client.crisp.chat/l.js";
     script.async = true;
     document.body.appendChild(script);
-  
+
     window.$crisp = [];
     window.CRISP_WEBSITE_ID = "5954cced-b076-41e5-b6a4-6098cf8265b9";
-  
+
     return () => {
       document.body.removeChild(script);
     }
   }, []);
-  
+
   return (
     <>
   <div className="row">
