@@ -28,7 +28,7 @@ const config = {
 
       // 整合包下载链接
       downloadIntegratedZipUrl: process.env.DOWNLOAD_INTEGRATED_ZIP_URL || 'https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mNWVkZjQyZWJmODA2MWNlL0VmbmRSVWQ1aHhSQWp4WjQxdjYwRDAwQmtmbTZSdnVpZ3Rfb3k1RGo1T00wZHc_ZT15OXA2Rlo.zip',
-      downloadIntegratedExeUrl: process.env.DOWNLOAD_INTEGRATED_EXE_URL || 'https://acbox.app/f/22zmI8/GTA4%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%812024-09-13.exe',
+      downloadIntegratedExeUrl: process.env.DOWNLOAD_INTEGRATED_EXE_URL || 'https://quwenjian.cc/share/select?code=35LLT',
 
       // 备用下载链接
       backupYejiUrl: process.env.BACKUP_YEJIYUN_URL || 'https://pan.huang1111.cn/s/9Q2n5Cd?path=%2F',
