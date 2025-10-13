@@ -23,6 +23,7 @@ export default function Click() {
         value={
           "答案：我已阅读本站所有说明并遇到了意料之外的问题"
         }
+        readOnly
       ></input>
       <p className="ppp">群号：{state ? 154428332 : "填入答案前不显示"}</p>
       <input
