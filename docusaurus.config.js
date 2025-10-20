@@ -1,10 +1,11 @@
 // @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github')
-const darkCodeTheme = require('prism-react-renderer/themes/dracula')
-const oceanicNext = require('prism-react-renderer/themes/oceanicNext')
-const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
+const {themes} = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
+const oceanicNext = themes.oceanicNext;
+const duotoneLight = themes.duotoneLight;
 
 // 读取环境变量
 require('dotenv').config();
