@@ -47,8 +47,12 @@ const config = {
   url: 'https://b9348.pages.dev',
   baseUrl: '/',
   onBrokenLinks: 'log',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   organizationName: 'b9348', // Usually your GitHub org/user name.
   projectName: "b9348", // Usually your repo name.
   i18n: {
